@@ -1,0 +1,466 @@
+/* ======================= body ======================================= */
+body
+{
+    background: linear-gradient(to bottom right, rgb(245, 169, 78), rgb(238, 181, 112));
+}
+/* ======================= thanh logo  ======================= */
+.logo
+{
+    height: 40px;
+    padding: 0;
+    margin: 0;
+}
+
+/*==============  thanh menu =============== */
+.menu
+{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    min-height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.menu__items
+{
+    padding-left: 0;
+    margin: auto 16px;
+}
+.menu__items--item
+{
+    color: #000;
+    list-style: none;
+    font-size: 40px;
+    display: inline-block;
+    cursor: pointer ;
+    text-decoration: none;
+    margin: 0 25px;
+}
+/*==============  thanh main  cua trang chu =============== */
+.main
+{
+    display: flex;
+}
+.main__block1
+{
+    height: 600px;
+    width: 60%;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title1
+{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 15%;
+    margin-bottom: 0;
+}
+.title2
+{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.buttondownload
+{
+    display: inline-block;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    color: #000;
+    font-size: 100%;
+    padding: 20px;
+    background-color: rgb(234, 134, 19);
+    border-radius: 20px;
+    margin-left: 40%;
+    margin-top: 140px;
+    cursor: pointer ;
+}
+.main__block2
+{
+    height: 600px;
+    width: 40%;
+    display: flex;
+}
+.main__block2--left
+{
+    height: 100%;
+    width: 40%;
+}
+.button_ios
+{
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 350px;
+    cursor: pointer ;
+}
+.button_android
+{
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 10px;
+    cursor: pointer ;
+}
+.main__block2--right
+{
+    height: 100%;
+    width: 60%;
+}
+.smartphone
+{
+    padding-top: 10px;
+}
+
+
+/*==============  thanh main  cua ngân hàng kiến thức =============== */
+.main__bank
+{
+    display: flex;
+}
+.bank__block1
+{
+    width: 60%;
+    height: 600px;
+    box-sizing: border-box;
+
+}
+.bank__block1--title1
+{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 40px;
+    margin: 0;
+}
+.bank__block1--title2
+{
+    color: black;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.bank__block1--title3
+{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 0;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.bank__block1--title4
+{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.lablesearch
+{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.search
+{
+    width: 300px;
+    height: 40px;
+    margin-left: 33%;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.bank__block1--button
+{
+    border: none;
+    color: #000;
+    font-size: 100%;
+    padding: 15px;
+    background-color: rgb(234, 134, 19);
+    border-radius: 20px;
+    cursor: pointer ;
+}
+.bank__block2
+{
+    width: 40%;
+    height: 600px;
+}
+.fish
+{
+    padding-top: 60px;
+}
+
+/*==============  thanh main  cua ve chung toi  ===============*/
+.main__team
+{
+    display: flex;
+}
+.team__block1
+{
+    width: 40%;
+    height: 600px;
+    box-sizing: border-box;
+}
+.team__block1--blockup
+{
+    background-color: green;
+    margin: 0;
+    width: 100%-5;
+    height: 220px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    
+}
+.team__block1--blockup--title
+{
+    color:black;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.team__block1--blockup--title1
+{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
+.team__block1--blockup--title2
+{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+
+}
+.team__block1--blockup--title3
+{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
+.team__block1--blockdown
+{
+    background-color: green;
+    width: 100%-5;
+    height: 320px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin: 0;
+
+}
+.team__block1--blockdown--title
+{
+    color:black;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.team__block1--blockdown--title1
+{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
+.team__block1--blockdown--title2
+{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
+.team__block1--blockdown--title3
+{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
+.team__block1--blockdown--title4
+{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
+.team__block1--blockdown--title5
+{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
+.team__block1--blockdown--title6
+{
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+}
+.team__block2 
+{
+
+    width: 60%;
+    height: 600px;
+    padding: 40px;
+}
+.tau 
+{
+    height: 550px;
+    width: 850px;
+}
+/*==============  thanh lien he  =============== */
+.main__call
+{
+    display: flex  ;
+}
+.call__block1
+{
+    width: 40%;
+    height: 600px;
+
+}
+.call__block1--blockup
+{
+    background-color: green;
+    margin: 0;
+    width: 100%-5;
+    height: 250px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+.call__block1--blockup--title1
+{
+    color:black;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.call__block1--blockup--title2
+{
+    color:white;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.call__block1--blockup--title3
+{
+    color:white;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.call__block1--blockdown
+{
+    background-color: green;
+    width: 100%-5;
+    height: 240px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin-left: 30px;
+
+}
+.call__block1--blockdown--title1
+{
+    color:black;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.call__block1--blockdown--title2
+{
+    color:white;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 0;
+    text-align: center;
+}
+.call__block1--blockdown--title3
+{
+    color:white;
+    font-size: 30px;
+    margin-top: 0;
+    text-align: center;
+}
+.call__block2 
+{
+
+    width: 60%;
+    height: 600px;
+}
+.call__block2--lable
+{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+.lablename
+{
+    color:black;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.name 
+{
+    margin-left: 100px;
+    width: 300px;
+    height: 20px;
+}
+.lableemail
+{
+    color:black;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.email 
+{
+    margin-left: 100px;
+    width: 300px;
+    height: 20px;
+}
+.lablemess
+{
+    color:black;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.mess 
+{
+    margin-left: 100px;
+    width: 700px;
+    height: 200px;
+}
+.sendmess
+{
+    border: none;
+    color: #000;
+    font-size: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(19, 166, 234);
+    border-radius: 20px;
+    cursor: pointer ;
+    margin-left: 420px;
+    margin-top: 30px;
+}

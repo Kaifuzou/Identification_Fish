@@ -1,0 +1,148 @@
+============================================Trang chủ ============================================================
+<main class="main">
+            <div class="main__block1">
+                <h1 class="title1">
+                    <b>CHĂN NUÔI HIỆU QUẢ</b>
+                </h1>
+                <h1 class="title2">
+                    <b>TĂNG TRƯỞNG TỐI ĐA</b>
+                </h1>
+                <button class="buttondownload">
+                    <b>Download the App</b>
+                </button>
+            </div>
+            <div class="main__block2">
+                <div class="main__block2--left">
+                    <button class="button_ios">
+                        <img src="IOS.png" alt="" class="ios">
+                    </button>
+                    <button class="button_android">
+                        <img src="Android.png" alt="" class="android">
+                    </button>
+                </div>
+                <div class="main__block2--right">
+                    <img src="1.png" alt="" class="smartphone">
+                </div>
+                
+
+            </div>
+        </main>
+
+============================================ngân hàng kiến thức  ============================================================
+
+
+<main class="main__bank">
+            <div class="bank__block1">
+                <h1 class="bank__block1--title1"><b>Ngân hàng kiến</b></h1>
+                <h1 class="bank__block1--title2"><b>thức về thuỷ hải sản!</b></h1>
+                <h1 class="bank__block1--title3">Cung cấp cơ sở dữ liệu lớn về
+                    Kỹ thuật canh tác
+                </h1>
+                <h1 class="bank__block1--title4">giúp việc chăn nuôi và chăm sóc
+                    thuỷ hải sản trở nên dễ dàng hơn.
+                </h1>
+                <p class="lablesearch">Tra thông tin</p>
+                <input type="Từ khoá tìm kiếm" class="search">
+                <button class="bank__block1--button">
+                    Tìm kiếm
+                </button>
+            </div>
+            <div class="bank__block2">
+                <img src="fish.png" alt="" class="fish">
+            </div>
+        </main>
+
+============================================Ve chung toi  ============================================================
+
+        <main class="main__team">
+            <div class="team__block1">
+                <div class="team__block1--blockup">
+                    <p class="team__block1--blockup--title">
+                        <b>TẦM NHÌN</b>
+                    </p>
+                    <p class="team__block1--blockup--title1">
+                        "Chúng tôi xây dựng một hệ sinh thái
+                    </p>
+                    <p class="team__block1--blockup--title2">
+                        thuỷ sản Việt Nam bền vững chính là
+                    </p>
+                    <p class="team__block1--blockup--title3">
+                        tầm nhìn duy nhất và quan trọng nhất."
+                    </p>
+                </div>
+                <div class="team__block1--blockdown">
+                    <p class="team__block1--blockdown--title">
+                        <b>SỨ MỆNH</b>
+                    </p>
+                    <p class="team__block1--blockdown--title1">
+                        "kiến tạo một cộng đồng làm thuỷ sản
+                    </p>
+                    <p class="team__block1--blockdown--title2">
+                        minh bạch, giàu tính hợp tác bằng cách
+                    </p>
+                    <p class="team__block1--blockdown--title3">
+                        cung cấp các nền tảng kết nói và các
+                    </p>
+                    <p class="team__block1--blockdown--title4">
+                        sản phẩm công nghệ chất lượng cao
+                    </p>
+                    <p class="team__block1--blockdown--title5">
+                        với mức giá hợp lý. Đó chính là sức mệnh
+                    </p>
+                    <p class="team__block1--blockdown--title6">
+                        quan trọng nhất của chúng tôi."
+                    </p>
+                </div>
+            </div>
+            <div class="team__block2">
+                <img src="tau.jpg" alt="" class="tau">
+
+            </div>
+        </main>
+
+=========================================== Liên hệ  ============================================================
+        <main class="main__call">
+            <div class="call__block1">
+                <div class="call__block1--blockup">
+                    <p class="call__block1--blockup--title1">
+                        <b>LIÊN HỆ</b>
+                    </p>
+                    <p class="call__block1--blockup--title2">
+                        Hotline: 0123456789
+                    </p>
+                    <p class="call__block1--blockup--title3">
+                        Email: Group5.62cdt@ntu.edu.vn
+                    </p>
+                </div>
+                <div class="call__block1--blockdown">
+                    <p class="call__block1--blockdown--title1">
+                        <b>ĐỊA CHỈ</b>
+                    </p>
+                    <p class="call__block1--blockdown--title2">
+                        02 Đường Nguyễn Đình Chiểu,
+                    </p>
+                    <p class="call__block1--blockdown--title3">
+                        Vĩnh Thọ, Nha Trang, Khánh Hoà.
+                    </p>
+                </div>
+            </div>
+            <div class="call__block2">
+                <h1 class="call__block2--lable">
+                    <b>Lời nhắn với chúng tôi</b>
+                </h1>
+                <p class="lablename">
+                    Họ và tên
+                </p>
+                <input type="" class="name">
+                <p class="lableemail">
+                    Email
+                </p>
+                <input type="" class="email">
+                <p class="lablemess">
+                    Nội dung
+                </p>
+                <input type="text" class="mess">
+                <button class="sendmess">Gửi</button>
+
+            </div>
+        </main>
